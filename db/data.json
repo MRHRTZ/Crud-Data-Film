@@ -1,0 +1,128 @@
+[
+   {
+      "no": 1,
+      "judul": "Black Panther: Wakanda Forever",
+      "genre": "Action, Adventure",
+      "sutradara": "Ryan Coogler",
+      "tanggal_rilis": "9 Nov 2022"
+   },
+   {
+      "no": 2,
+      "judul": "Minions: The Rise of Gru",
+      "genre": "Action, Adventure, Animation",
+      "sutradara": "Kyle Balda",
+      "tanggal_rilis": "16 Jun 2022"
+   },
+   {
+      "no": 3,
+      "judul": "John Wick: Chapter 4",
+      "genre": "Action",
+      "sutradara": "Chad Stahelski",
+      "tanggal_rilis": "23 Mar 2023"
+   },
+   {
+      "no": 4,
+      "judul": "Aquaman and the Lost Kingdom",
+      "genre": "Adventure",
+      "sutradara": "James Wan",
+      "tanggal_rilis": "16 Mar 2023"
+   },
+   {
+      "no": 5,
+      "judul": "The Flash",
+      "genre": "Science fiction, Adventure",
+      "sutradara": "Andy Muschietti",
+      "tanggal_rilis": "23 Jun 2023"
+   },
+   {
+      "no": 6,
+      "judul": "Hotel Transylvania 2",
+      "genre": "Animation, Family",
+      "sutradara": "Genndy Tartakovksy",
+      "tanggal_rilis": "23 September 2015"
+   },
+   {
+      "no": 7,
+      "judul": "Peter Rabbit 2: The Runaway",
+      "genre": "Comedy, Adventure",
+      "sutradara": "Will Gluck",
+      "tanggal_rilis": "14 Januari 2022 "
+   },
+   {
+      "no": 8,
+      "judul": "Interceptor",
+      "genre": "Military, Action, Adventure, Australia",
+      "sutradara": "Matthew Reilly",
+      "tanggal_rilis": "26 Mei 2022"
+   },
+   {
+      "no": 9,
+      "judul": "The Accountant",
+      "genre": "AS, Adventure, Criminal",
+      "sutradara": "Gavin O'connor",
+      "tanggal_rilis": "14 Oktober 2016"
+   },
+   {
+      "no": 10,
+      "judul": "Hustle",
+      "genre": "AS, Comedy, Drama",
+      "sutradara": "Jeremiah Zagar",
+      "tanggal_rilis": "3 Juni 2022"
+   },
+   {
+      "no": 11,
+      "judul": "The Age of Adaline",
+      "genre": "Drama, Romance",
+      "sutradara": "Lee Toland Krieger",
+      "tanggal_rilis": "24 April 2015"
+   },
+   {
+      "no": 12,
+      "judul": "A Walk Among the Tombstones",
+      "genre": "Mistery, Brutal",
+      "sutradara": "Scott Frank",
+      "tanggal_rilis": "19 September 2014"
+   },
+   {
+      "no": 13,
+      "judul": "Losers",
+      "genre": "Spy, Adventure",
+      "sutradara": "Sylvain White",
+      "tanggal_rilis": "23 April 2010"
+   },
+   {
+      "no": 14,
+      "judul": "Brahms: The Boy II",
+      "genre": "Horror",
+      "sutradara": "William Barent Bell",
+      "tanggal_rilis": "19 Februari 2020"
+   },
+   {
+      "no": 15,
+      "judul": "Survivor",
+      "genre": "Spy, Adventure",
+      "sutradara": "James McTeigue",
+      "tanggal_rilis": "29 Mei 2015"
+   },
+   {
+      "no": 16,
+      "judul": "Mystic River",
+      "genre": "Mistery, Book Adaptation",
+      "sutradara": "Clint Eastwood",
+      "tanggal_rilis": "3 Oktober 2003"
+   },
+   {
+      "no": 17,
+      "judul": "Story Of Dinda",
+      "genre": "Film Adaptasi, Drama, Romantis",
+      "sutradara": "Ginanti Rona Tembang Asri",
+      "tanggal_rilis": "29 Oktober 2021"
+   },
+   {
+      "no": 18,
+      "judul": "Ginta sinting",
+      "genre": "Komedi",
+      "sutradara": "Saya sendiri",
+      "tanggal_rilis": "Baru saja"
+   }
+]
